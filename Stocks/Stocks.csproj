@@ -33,6 +33,11 @@
     <Compile Include="Dice.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Interfaces\IDice.cs" />
+    <Compile Include="Game.cs" />
+    <Compile Include="Interfaces\IPlayer.cs" />
+    <Compile Include="Interfaces\ICard.cs" />
+    <Compile Include="Interfaces\IStockChange.cs" />
+    <Compile Include="Interfaces\IBank.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Interfaces\" />
